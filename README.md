@@ -5,7 +5,15 @@ Com esse aplicativo vamos conseguir buscar o Endereço completo do usário como 
 Vamos colocar o cep de onde usuário mora e ele ira fornecer de forma automática os dados do Endereço, todos esses dados veem da Internt consumindo dados de uma Api chamada de : ViaCep 
 https://viacep.com.br/ usando JSON .
 
+​Retrofit da Biblioteca
 
+implementação 'com.squareup.retrofit2:retrofit:2.9.0'
+
+implementação 'com.squareup.retrofit2:converter-gson:2.9.0'
+
+
+
+API Via Cep:  https://viacep.com.br/
 
 ![ConsultarCep](https://github.com/PryMachado/ConsultarCep/assets/124249045/65f1284a-4aa2-4ccd-a0c5-1182b557391f)
 ![cepLocalizado](https://github.com/PryMachado/ConsultarCep/assets/124249045/738e8fcb-89dd-48ff-810c-bb229cd7e7a5)
